@@ -21,10 +21,9 @@
 
  >> COMMENT CLONER UNE BRANCHE SPÉCIFIQUE (GIT) :
  Pour cloner directement une version spécifique :
- git clone -b <nom_de_la_branche> https://github.com/VOTRE_PSEUDO/NOM_DEPOT.git
-
+ git clone -b <nom_de_la_branche> https://github.com/GoxTheGoat-source/minecraftcoderpack.git
  Exemple :
- git clone -b 1.12.2 https://github.com/VOTRE_PSEUDO/NOM_DEPOT.git
+ git clone -b 1.12.2 https://github.com/GoxTheGoat-source/minecraftcoderpack.git
 
 
  ------------------------------------------------------------------------
@@ -43,9 +42,9 @@
 
  >> HOW TO CLONE A SPECIFIC BRANCH (GIT):
  To clone a specific version directly:
- git clone -b <branch_name> https://github.com/YOUR_USERNAME/YOUR_REPO.git
+ git clone -b <branch_name> https://github.com/GoxTheGoat-source/minecraftcoderpack.git
 
  Example:
- git clone -b 1.12.2 https://github.com/YOUR_USERNAME/YOUR_REPO.git
+ git clone -b 1.12.2 https://github.com/GoxTheGoat-source/minecraftcoderpack.git
 
  51 ========================================================================
